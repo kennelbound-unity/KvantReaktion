@@ -1,0 +1,7 @@
+{
+  "name": "KvantReaktion",
+  "export": "Assets",
+  "dependencies": [
+	  "KvantUtils"
+  ]
+}
