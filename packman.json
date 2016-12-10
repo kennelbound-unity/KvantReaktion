@@ -2,6 +2,6 @@
   "name": "KvantReaktion",
   "export": "Assets",
   "dependencies": [
-	  "KvantUtils"
+	  "kennelbound-unity/KvantUtils"
   ]
 }
